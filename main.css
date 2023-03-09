@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 12PX;
+}
+
+header {
+    padding: 16px;
+    background-color: rgb(126, 121, 121);
+    color: rgb(221, 221, 221);
+    font-family: 'Exo 2', sans-serif;
+    font-size: 30px;
+}
+
+header img {
+    margin-left: 0px;
+    width: 100px;
+}
+
+header nav li {
+    display: inline;
+    font-size: 20px;
+
+}
+
+header nav li a {
+    color: rgb(221, 221, 221);
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.hist {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12PX;
+    background-color: rgb(155, 185, 185);
+}
+
+.modelos {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12PX;
+    background-color: rgb(155, 185, 185);
+}
+
+.comp {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12PX;
+    background-color: rgb(155, 185, 185);
+}
+
+.contato {
+    font-size: 13px;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 12PX;
+    background-color: rgb(226, 182, 99);
+}
