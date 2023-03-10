@@ -91,6 +91,7 @@ h2 {
 }
 
 .contato {
+    max-width: 830px;
     font-size: 13px;
     margin: 0 auto;
     padding: 10px;
